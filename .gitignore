@@ -1,6 +1,6 @@
 dist
 node_modules
 .idea
-database
+database/*.sqlite
 # Keep environment variables out of version control
 .env
